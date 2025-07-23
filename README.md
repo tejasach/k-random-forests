@@ -4,11 +4,11 @@ A comprehensive implementation of **K-Random Forest clustering algorithm** compa
 
 Based on: Bicego, M. (2019). K-Random Forests: a K-means style algorithm for Random Forest clustering. 2019 International Joint Conference on Neural Networks (IJCNN), Budapest, Hungary.
 
-## 🚀 Key Contribution
+## Key Contribution
 
 This project introduces an **innovative clustering method** that leverages **Isolation Forests** for cluster assignment, offering a fresh perspective on unsupervised learning by combining clustering with anomaly detection principles.
 
-## 🎯 Overview
+## Overview
 
 ### **Algorithm Overview**
 - **K-Random Forest Clustering**: Custom-designed algorithm using Isolation Forests as cluster representatives
@@ -20,7 +20,7 @@ This project introduces an **innovative clustering method** that leverages **Iso
 - **Evaluation Metrics**: Adjusted Rand Index (ARI) and Normalized Mutual Information (NMI)
 - **Visualization**: PCA-based 2D visualization for intuitive comparison
 
-## 🔬 Methodology
+## Methodology
 
 ### K-Random Forest Algorithm
 Algorithm works through the following steps:
@@ -37,7 +37,7 @@ Unlike traditional distance-based clustering, K-Random Forest identifies cluster
 - Outlier-robust clustering
 - Complex data distributions
 
-## 📊 Results & Performance
+## Results
 
 | Algorithm | ARI Score | NMI Score | Approach |
 |-----------|-----------|-----------|----------|
