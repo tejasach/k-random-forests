@@ -50,5 +50,5 @@ Unlike traditional distance-based clustering, K-Random Forest identifies cluster
 ### **Key Findings**
 
 ✅ **Successfully implemented** a novel clustering approach using Isolation Forests    
-✅ **Provided alternative perspective** on cluster identification 
+✅ **Provided alternative perspective** on cluster identification
 ✅ **K-Random Forests method** showed better performance compared to K-Means when both resulting clusters are compared with True value
