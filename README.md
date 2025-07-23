@@ -2,7 +2,7 @@
 
 A comprehensive implementation of **K-Random Forest clustering algorithm** compared with traditional K-Means clustering as baseline.
 
-Based on: Bicego, M. (2019). K-Random Forests: a K-means style algorithm for Random Forest clustering. 2019 International Joint Conference on Neural Networks (IJCNN), Budapest, Hungary.
+Based on: Bicego, M. (2019). K-Random Forests: a K-means style algorithm for Random Forest clustering. 2019 International Joint Conference on Neural Networks (IJCNN), Budapest, Hungary.[Original Paper](http://profs.sci.univr.it/~bicego/papers/2019_IJCNN.pdf)
 
 ## Key Contribution
 
