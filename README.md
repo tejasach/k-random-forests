@@ -41,14 +41,10 @@ Unlike traditional distance-based clustering, K-Random Forest identifies cluster
 
 | Algorithm | ARI Score | NMI Score | Approach |
 |-----------|-----------|-----------|----------|
-| **K-Random Forest** | 0.5681 | 0.6272 | **Anomaly-based** |
-| K-Means | 0.7302 | 0.7551 | Distance-based |
+| **K-Random Forest** | 0.8459 | 0.8109 | **Anomaly-based** |
+| K-Means | 0.7163 | 0.7419 | Distance-based |
 
 <img width="1800" height="500" alt="PCA_Comparison_K_RF" src="https://github.com/user-attachments/assets/d280a6e6-f695-411d-beb0-e17845eaa2b4" />
 
-
-### **Key Findings**
-
-✅ **Successfully implemented** a novel clustering approach using Isolation Forests    
-✅ **Provided alternative perspective** on cluster identification
-✅ **K-Random Forests method** showed better performance compared to K-Means when both resulting clusters are compared with True value
+    
+ **K-Random Forests method** has better performance compared to K-Means when both resulting clusters are compared with True value
